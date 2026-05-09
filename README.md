@@ -1,4 +1,4 @@
-📌 Project Overview
+📌 Project Overview:
 This project is a machine learning application designed to predict Customer Churn. By analyzing customer data, the model identifies individuals who are likely to stop using a service, allowing businesses to take proactive retention measures.
 
 The application is deployed as an interactive web interface using Streamlit.  
